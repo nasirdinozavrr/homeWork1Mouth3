@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">homeWork1Mouth3</string>
+    <string name="email">Enter email</string>
+    <string name="subject">Enter subject</string>
+    <string name="text">Enter text</string>
+    <string name="send">Send</string>
+</resources>
